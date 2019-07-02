@@ -13,7 +13,7 @@ The following classification algrithms will be trained and tested in order to pr
 - Create Features
 - Feature Scaling (Min-Max Normalization)
 - Train-Test Split
-- Cross Validation
+- Cross Validation & Grid Search Hyperparameter Tuning
 - Training of Machine Learning Model
 - Evaluation of Prediction Performance (Metric: F1 Score)
 
