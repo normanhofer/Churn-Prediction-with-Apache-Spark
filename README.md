@@ -17,6 +17,15 @@ The following classification algrithms will be trained and tested in order to pr
 - Training of Machine Learning Model
 - Evaluation of Prediction Performance (Metric: F1 Score)
 
+## Model Performance
+Of the tested models, the Gradeint Boosting achieved the best prediction results.
+
+Classification Metrics on Testting data: 
+- precision: 0.9815,
+- recall: 0.9813, 
+- f1: 0.9809, 
+- accuracy: 0.9813
+
 ## Dependencies
 - Python 3
 - Spark's Machine Learning Library MLlib
@@ -26,6 +35,3 @@ The following classification algrithms will be trained and tested in order to pr
 - Matplotlib
 - Seaborn
 - Datetime
-
-
-
